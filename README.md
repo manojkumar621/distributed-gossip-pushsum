@@ -1,4 +1,4 @@
-# Project 2 — Gossip Protocol & Push-Sum Algorithms on Different Topologies (Gleam Actors)
+# Gossip Protocol & Push-Sum Algorithms on Different Topologies (Gleam Actors)
 
 
 ## Abstract
