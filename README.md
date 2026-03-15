@@ -1,8 +1,5 @@
 # Project 2 — Gossip Protocol & Push-Sum Algorithms on Different Topologies (Gleam Actors)
 
-## Team Members
-- Manoj Kumar Galla (UFID: 81687436)  
-- Vandana Cendrollu Nagesh (UFID: 46498764) 
 
 ## Abstract
 Implements **Asynchronous Gossip** (info propagation) and **Push–Sum** (aggregate sum) using the actor model in Gleam/Erlang. Includes four topologies (full, line, 3D grid, imperfect 3D grid), CLI per the spec, and prints **convergence time** in milliseconds.
